@@ -1,36 +1,44 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=K%20Divya%20Dharshini&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Java%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Full%20Stack%20Learner&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=K%20Divya%20Dharshini&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm K Divya Dharshini</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;Java+Developer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Building+Real+World+Solutions+Through+Technology" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Development+Learner;Software+Developer;Building+Technology+for+Real+World+Impact" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=divyadharshini165&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=divyadharshini165&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
 
-<img align="right" width="330" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ## 👩‍💻 About Me
 
-* 🎓 B.Tech Computer Science and Engineering (Core)
-* 🏫 SRM Institute of Science and Technology, Kattankulathur
-* 📊 CGPA: **9.59**
-* 💻 Passionate about Java Development, Artificial Intelligence, and Full Stack Development
-* 🌱 Currently exploring Spring Boot, Machine Learning, Cloud Computing, and Advanced DSA
-* 🚀 Interested in building practical software solutions that solve real-world problems
-* 📚 Strong foundation in OOP, DBMS, Operating Systems, and Computer Networks
+🎓 B.Tech Computer Science and Engineering (Core) Student at SRM Institute of Science and Technology, Kattankulathur
+
+📊 Current CGPA: **9.59**
+
+💡 Passionate about building practical software solutions that combine technology, creativity, and problem-solving.
+
+🌱 Currently exploring:
+
+* Artificial Intelligence & Machine Learning
+* Full Stack Development
+* Cloud Computing
+* Advanced Data Structures & Algorithms
+* Open Source Development
+
+🚀 Interested in creating impactful applications that solve real-world challenges.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
@@ -62,39 +70,35 @@
 
 ## 🚀 Featured Projects
 
-| Project                | Technologies               | Highlights                                                                       |
-| ---------------------- | -------------------------- | -------------------------------------------------------------------------------- |
-| 🤖 AI Finance Platform | React.js, Node.js, MongoDB | AI-driven risk scoring, predictive analytics, financial dashboards and reporting |
-| ✋ Air Drawing System   | Python, OpenCV, MediaPipe  | Real-time hand gesture recognition and touchless drawing system                  |
-| 👗 Outfit Oracle       | Java, SQLite               | Personalized event-based outfit recommendation application                       |
+| Project                | Description                                                                                               |
+| ---------------------- | --------------------------------------------------------------------------------------------------------- |
+| 🤖 AI Finance Platform | Financial analytics platform with AI-driven risk scoring, predictive modeling, and interactive dashboards |
+| ✋ Air Drawing System   | Hand gesture recognition application using OpenCV and MediaPipe for touchless drawing                     |
+| 👗 Outfit Oracle       | Event-based styling application providing personalized outfit recommendations                             |
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Achievements
 
-| Achievement                                                  | Details                                                                                                                                |
-| ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
-| 📄 IEEE ICESIC 2026                                          | Presented the paper *"FinOps-based Cloud Cost Optimization Using Billing Analytics and Anomaly Detection in GCP"* at Vel Tech, Chennai |
-| 🥈 Guidewire Hackathon 2026                                  | Advanced to Phase 3                                                                                                                    |
-| 🔐 Cryptosolve Competition                                   | Qualified Round 2                                                                                                                      |
-| ☁️ Oracle Cloud Infrastructure 2025 AI Foundations Associate | Certified                                                                                                                              |
-| 🤖 AWS Generative AI Foundations                             | Certified                                                                                                                              |
-| 📚 NPTEL Certifications                                      | DSA, DBMS, Java Programming, Operating Systems, Design & Analysis of Algorithms, Artificial Intelligence                               |
+| Achievement                                             | Details                                                                                                                      |
+| ------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 📄 IEEE ICESIC 2026                                     | Presented *"FinOps-based Cloud Cost Optimization Using Billing Analytics and Anomaly Detection in GCP"* at Vel Tech, Chennai |
+| 🥈 Guidewire Hackathon 2026                             | Advanced to Phase 3                                                                                                          |
+| 🔐 Cryptosolve Competition                              | Qualified Round 2                                                                                                            |
+| ☁️ Oracle Cloud Infrastructure AI Foundations Associate | Certified                                                                                                                    |
+| 🤖 AWS Generative AI Foundations                        | Certified                                                                                                                    |
+| 📚 NPTEL Certifications                                 | DSA, DBMS, Java Programming, Operating Systems, AI, and DAA                                                                  |
 
 ---
 
-## 📚 Currently Learning
+## 📚 Current Focus
 
-```java
-class CurrentFocus {
-    String[] learning = {
-        "Advanced DSA",
-        "Spring Boot",
-        "Machine Learning",
-        "Cloud Computing",
-        "Open Source Development"
-    };
-}
+```text
+🧠 Advanced Data Structures & Algorithms
+☁️ Cloud Computing
+🤖 Machine Learning
+🌐 Full Stack Development
+🚀 Open Source Contributions
 ```
 
 ---
@@ -141,7 +145,7 @@ class CurrentFocus {
 ---
 
 <p align="center">
-⭐ Passionate about learning, building, and creating impactful technology.
+⭐ Learning, building, and growing one project at a time.
 </p>
 
 <p align="center">
