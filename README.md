@@ -1,27 +1,30 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=K%20Divya%20Dharshini&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=K%20Divya%20Dharshini&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Java%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Full%20Stack%20Learner&descAlignY=58"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Divya Dharshini</h1>
+<h1 align="center">Hi 👋, I'm K Divya Dharshini</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Java+Developer;AI+and+Machine+Learning+Enthusiast;Full+Stack+Developer;Open+Source+Learner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;Java+Developer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Building+Real+World+Solutions+Through+Technology" />
 </p>
 
 <p align="center">
-🎓 SRM Institute of Science and Technology | 📍 Chennai, India
+<img src="https://komarev.com/ghpvc/?username=divyadharshini165&label=Profile+Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
 
-## 🌟 About Me
+<img align="right" width="330" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+## 👩‍💻 About Me
 
 * 🎓 B.Tech Computer Science and Engineering (Core)
-* 📚 Currently in 3rd Year
+* 🏫 SRM Institute of Science and Technology, Kattankulathur
 * 📊 CGPA: **9.59**
-* 💻 Passionate about Java Development, AI, and Full Stack Development
-* 🤖 Interested in Machine Learning, Generative AI, and Cloud Technologies
-* 🚀 Love building real-world solutions through software
+* 💻 Passionate about Java Development, Artificial Intelligence, and Full Stack Development
+* 🌱 Currently exploring Spring Boot, Machine Learning, Cloud Computing, and Advanced DSA
+* 🚀 Interested in building practical software solutions that solve real-world problems
+* 📚 Strong foundation in OOP, DBMS, Operating Systems, and Computer Networks
 
 ---
 
@@ -41,7 +44,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
 ### Databases
 
@@ -55,75 +58,72 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
-### Core Areas
-
-![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-4CAF50?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-FF9800?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-9C27B0?style=for-the-badge)
-![Operating Systems](https://img.shields.io/badge/Operating_Systems-2196F3?style=for-the-badge)
-![Computer Networks](https://img.shields.io/badge/Computer_Networks-E91E63?style=for-the-badge)
-
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Finance Platform
-
-* Built using React.js, Node.js, and MongoDB
-* AI-driven risk scoring and predictive analytics
-* Financial dashboards and reporting capabilities
-
-### ✋ Air Drawing System using Hand Gesture Recognition
-
-* Developed using Python, OpenCV, and MediaPipe
-* Real-time fingertip tracking and gesture recognition
-* Touchless virtual drawing canvas
-
-### 👗 Outfit Oracle
-
-* Event-based styling recommendation application
-* Built using Java
-* Personalized outfit suggestions and user profiles
+| Project                | Technologies               | Highlights                                                                       |
+| ---------------------- | -------------------------- | -------------------------------------------------------------------------------- |
+| 🤖 AI Finance Platform | React.js, Node.js, MongoDB | AI-driven risk scoring, predictive analytics, financial dashboards and reporting |
+| ✋ Air Drawing System   | Python, OpenCV, MediaPipe  | Real-time hand gesture recognition and touchless drawing system                  |
+| 👗 Outfit Oracle       | Java, SQLite               | Personalized event-based outfit recommendation application                       |
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-* 📄 Presented research paper at IEEE ICESIC 2026
-* 🥈 Guidewire Hackathon 2026 – Reached Phase 3
-* 🔐 Cryptosolve – Qualified Round 2
-* ☁️ Oracle Cloud Infrastructure AI Foundations Associate
-* 🤖 AWS Generative AI Foundations
-* 📚 NPTEL Certifications in DSA, DBMS, Java, OS, DAA and AI
+| Achievement                                                  | Details                                                                                                                                |
+| ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
+| 📄 IEEE ICESIC 2026                                          | Presented the paper *"FinOps-based Cloud Cost Optimization Using Billing Analytics and Anomaly Detection in GCP"* at Vel Tech, Chennai |
+| 🥈 Guidewire Hackathon 2026                                  | Advanced to Phase 3                                                                                                                    |
+| 🔐 Cryptosolve Competition                                   | Qualified Round 2                                                                                                                      |
+| ☁️ Oracle Cloud Infrastructure 2025 AI Foundations Associate | Certified                                                                                                                              |
+| 🤖 AWS Generative AI Foundations                             | Certified                                                                                                                              |
+| 📚 NPTEL Certifications                                      | DSA, DBMS, Java Programming, Operating Systems, Design & Analysis of Algorithms, Artificial Intelligence                               |
 
 ---
 
 ## 📚 Currently Learning
 
-```text
-🧠 Advanced Data Structures & Algorithms
-☕ Spring Boot
-🤖 Machine Learning
-☁️ Cloud Computing
-🌍 Open Source Development
+```java
+class CurrentFocus {
+    String[] learning = {
+        "Advanced DSA",
+        "Spring Boot",
+        "Machine Learning",
+        "Cloud Computing",
+        "Open Source Development"
+    };
+}
 ```
 
-## 📊 GitHub Stats
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=divyadharshini165&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyadharshini165&layout=compact&theme=tokyonight" height="180"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=divyadharshini165&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyadharshini165&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=divyadharshini165&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=divyadharshini165&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=divyadharshini165&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
+
 <a href="https://www.linkedin.com/in/k-divya-dharshini-6092b635a/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -135,14 +135,15 @@
 <a href="https://github.com/divyadharshini165">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
 <p align="center">
-⭐ Passionate about learning, building, and contributing to impactful technology.
+⭐ Passionate about learning, building, and creating impactful technology.
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling"/>
 </p>
